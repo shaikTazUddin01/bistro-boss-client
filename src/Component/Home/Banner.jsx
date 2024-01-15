@@ -5,6 +5,9 @@ import { Carousel } from 'react-responsive-carousel'
 import img1 from '../../assets/home/01.jpg'
 import img2 from '../../assets/home/02.jpg'
 import img3 from '../../assets/home/03.png'
+
+//costom css
+import './banner.css'
 const Banner = () => {
     return (
         <div>
